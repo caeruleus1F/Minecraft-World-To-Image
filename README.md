@@ -6,4 +6,4 @@ Example usage:
 
 /im 256
 
-Creates a .PNG image of size 256x256 (512x512, it's been six months since I've run this thing) with the center at the origin of the world.
+Creates a .PNG image of size 256x256 (or 512x512 :P, it's been six months since I've run this thing) with the center at the origin of the world.
