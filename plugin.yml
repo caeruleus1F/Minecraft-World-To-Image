@@ -1,0 +1,8 @@
+name: ImageMaker
+main: com.gbates31.imagemaker.Main
+version: 1.0
+
+commands:
+  im:
+    description: Makes an image of the world.
+    usage: /im <dimension>
